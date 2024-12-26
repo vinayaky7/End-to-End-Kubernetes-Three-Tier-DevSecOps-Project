@@ -1,4 +1,4 @@
-# The repository vinayaky7/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project implements a three-tier web application with the following components:
+# The repository End-to-End-Kubernetes-Three-Tier-DevSecOps-Project implements a three-tier web application with the following components:
 
 - Frontend: React.js
 - Backend: Node.js
