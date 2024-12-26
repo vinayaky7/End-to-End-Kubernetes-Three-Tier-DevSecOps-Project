@@ -1,3 +1,9 @@
+# The repository vinayaky7/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project implements a three-tier web application with the following components:
+
+- Frontend: React.js
+- Backend: Node.js
+- Database: MongoDB
+
 # Three-Tier Web Application Deployment on AWS EKS using AWS EKS, ArgoCD, Prometheus, Grafana, and Jenkins
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/jdzF8kTtw2)
